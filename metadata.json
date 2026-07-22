@@ -1,0 +1,6 @@
+{
+  "name": "Dewoxis File Manager",
+  "description": "A complete lightweight native Android file manager inspired by ZArchiver with zip/7z/rar archive handling, text viewer, image preview, and APK details reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
